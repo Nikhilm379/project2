@@ -1,4 +1,4 @@
 # New Project
 This Project was created from local system.
 
-Created by Nikhil Mishra.
+Created and manage by Nikhil Mishra.
