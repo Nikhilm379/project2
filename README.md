@@ -1,3 +1,4 @@
 # New Project
-This Project was created from local system. /n
+This Project was created from local system.
+
 Created by Nikhil Mishra.
